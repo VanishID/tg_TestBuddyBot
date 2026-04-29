@@ -61,4 +61,4 @@ python3 json_bot.py
 
 ## Автор
 
-Иван Депутатов
+Иван Депутатов [Telegram](https://t.me/IvanD_QA), [Email](mailto:wanish666@yandex.ru))
