@@ -3,7 +3,7 @@ from telebot import TeleBot, types
 from telebot.types import InlineKeyboardButton, InlineKeyboardMarkup  # <-- новый импорт
 import json
 
-bot = TeleBot(token='твой токен', parse_mode='html')  # подставь свой токен
+bot = TeleBot(token='8770113846:AAELtXCaK8R8hT-TiqjyD5W4-0x8JZ2BALI', parse_mode='html')  # подставь свой токен
 
 # обработчик команды '/start'
 @bot.message_handler(commands=['start'])
@@ -18,11 +18,11 @@ def start_command_handler(message: types.Message):
     keyboard = InlineKeyboardMarkup()
     btn_repo = InlineKeyboardButton(
         text='🔗 Мой репозиторий',
-        url='https://github.com/твой-репозиторий'  
+        url='https://github.com/VanishID/tg_TestBuddyBot'  
     )
     btn_tg = InlineKeyboardButton(
         text='💬 Написать мне в личку',
-        url='https://t.me/твой_ник'               
+        url='https://t.me/IvanD_QA'               
     )
     keyboard.add(btn_repo, btn_tg)  # кнопки в один ряд
     # Или можно по одной в ряду:
