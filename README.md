@@ -8,22 +8,22 @@
 Помочь тестировщику быстрее проверить JSON на нарушение синтаксиса
 
 Этот бот при получении JSON:
-* Проверяет на ошибки синтаксиса
+* Проверяет на ошибки синтаксиса и показывает, где они
 * Возвращает JSON в удобочитаемом формате
 
 ## 🖼 Скриншоты
 
 Стартовое меню:
 
-![image](https://raw.githubusercontent.com/German-D/tg_json/main/static/menu.png)
+![image](https://github.com/VanishID/tg_TestBuddyBot/blob/main/start.png)
 
 После отправки JSON c ошибкой:
 
-![image](https://raw.githubusercontent.com/German-D/tg_json/main/static/syntax.png)
+![image](https://github.com/VanishID/tg_TestBuddyBot/blob/main/with%20error.png)
 
 Пример работы бьютифаера:
 
-![image](https://raw.githubusercontent.com/German-D/tg_json/main/static/beautifaer.png)
+![image](https://github.com/VanishID/tg_TestBuddyBot/blob/main/beautifier.png)
 
 
 ## 💻 Технологии
@@ -61,4 +61,4 @@ python3 json_bot.py
 
 ## Автор
 
-Герман Дольников ([@dolnikov](https://t.me/dolnikov))
+Иван Депутатов

@@ -3,7 +3,7 @@ from telebot import TeleBot, types
 from telebot.types import InlineKeyboardButton, InlineKeyboardMarkup  # <-- новый импорт
 import json
 
-bot = TeleBot(token='Твой токен', parse_mode='html')  # подставь свой токен
+bot = TeleBot(token='твой токен', parse_mode='html')  # подставь свой токен
 
 # обработчик команды '/start'
 @bot.message_handler(commands=['start'])
