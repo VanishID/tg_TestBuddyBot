@@ -23,7 +23,7 @@
 
 Пример работы бьютифаера:
 
-![image](https://github.com/VanishID/tg_TestBuddyBot/blob/main/beautifier.png)
+<img width="1189" height="1029" alt="Image" src="https://github.com/user-attachments/assets/8f1ad52a-3645-4631-b189-3a430dfd4238" />
 
 
 ## 💻 Технологии
