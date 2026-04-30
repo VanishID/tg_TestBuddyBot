@@ -15,7 +15,7 @@
 
 Стартовое меню:
 
-![image](<img width="1191" height="1026" alt="Image" src="https://github.com/user-attachments/assets/b636abdb-4f65-4eca-ba1f-064d22834513" />)
+<img width="1191" height="1026" alt="Image" src="https://github.com/user-attachments/assets/b636abdb-4f65-4eca-ba1f-064d22834513" />
 
 После отправки JSON c ошибкой:
 
