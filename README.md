@@ -19,7 +19,7 @@
 
 После отправки JSON c ошибкой:
 
-![image](https://github.com/VanishID/tg_TestBuddyBot/blob/main/with%20error.png)
+<img width="1188" height="1033" alt="Image" src="https://github.com/user-attachments/assets/312eaf6d-71bb-4aa7-8003-bf2b798122d3" />
 
 Пример работы бьютифаера:
 
