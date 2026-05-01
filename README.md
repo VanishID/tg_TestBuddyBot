@@ -21,7 +21,7 @@
 
 <img width="1188" height="1033" alt="Image" src="https://github.com/user-attachments/assets/312eaf6d-71bb-4aa7-8003-bf2b798122d3" />
 
-Пример работы бьютифаера:
+Пример работы beautifier:
 
 <img width="1189" height="1029" alt="Image" src="https://github.com/user-attachments/assets/8f1ad52a-3645-4631-b189-3a430dfd4238" />
 
